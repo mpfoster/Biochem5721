@@ -1,0 +1,25 @@
+#Tinoco_v5 Table 9.2
+#The Number of Units of Penicillin Present After Storage at 25°C. 
+#Penicillin Units Are Proportional to the Concentration of Penicillin
+# Time in weeks; PU: Penicillin units
+Time_weeks		Penicillin_U
+0			10100
+1.00			8180
+2.00			6900
+3.00			5380
+4.00			4320
+5.00			3870
+7.00			2190
+8.00			2000
+9.00			1790
+10.00			1330
+11.00			1040
+12.00			898
+13.00			750
+14.00			572
+15.00			403
+16.00			403
+17.00			314
+18.00			279
+19.00			181
+20.00			167
